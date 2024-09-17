@@ -9,6 +9,8 @@ This project is a clone of the Spotify frontend UI, built using React and Tailwi
 - [Installation](#installation)
 - [Usage](#usage)
 
+## Live Demo Link:  https://spotifyreactfrontend.netlify.app/
+
 ## Demo
 Check out the https://www.linkedin.com/posts/veerendranadh-koppula_reactjs-tailwindcss-frontenddevelopment-activity-7236626025642696704-fUR8?utm_source=share&utm_medium=member_desktop of the project in action.
 
